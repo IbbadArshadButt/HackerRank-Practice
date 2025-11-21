@@ -1,0 +1,3 @@
+# Exclude Windows specific system files
+desktop.ini
+Thumbs.db
